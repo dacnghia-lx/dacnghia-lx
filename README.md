@@ -1,74 +1,60 @@
-<h1 align="center">Hi there, I'm Mia 👋</h1>
+## Hey, I'm Mia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="28" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Student+%40+EPU+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;Exploring+AI-assisted+SDLC+%F0%9F%A4%96;I'm+still+trying+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&vCenter=true&width=460&height=30&lines=Fullstack+web+developer;Building+things+for+the+web+%26+beyond;I'm+still+trying+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dacnghia-lx&label=visitors&color=0e75b6&style=flat" alt="visitors" />
-  <img src="https://img.shields.io/badge/university-EPU-d73a49?style=flat" alt="university: EPU" />
-  <img src="https://img.shields.io/badge/made%20in-Vi%E1%BB%87t%20Nam%20%F0%9F%87%BB%F0%9F%87%B3-da251d?style=flat" alt="made in Vietnam" />
-  <a href="https://github.com/dacnghia-lx?tab=followers">
-    <img src="https://img.shields.io/github/followers/dacnghia-lx?label=followers&style=flat&color=238636" alt="GitHub followers" />
-  </a>
-</p>
+![visitors](https://komarev.com/ghpvc/?username=dacnghia-lx&label=profile%20views&color=58a6ff&style=flat-square)
+![followers](https://img.shields.io/github/followers/dacnghia-lx?label=followers&style=flat-square&color=238636)
+![made in VN](https://img.shields.io/badge/made%20in-Vi%E1%BB%87t%20Nam-da251d?style=flat-square)
 
 ---
 
-<h3 align="center">🛠️ I code with</h3>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacnghia-lx&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&card_width=400" alt="Top languages" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,java,python,nodejs,threejs,bootstrap&perline=10" alt="languages & frameworks" />
-  </a>
-</p>
+### ✦ About
 
-<h3 align="center">🗄️ Databases, cloud & tools</h3>
+Developer who enjoys turning ideas into working products — from the database all the way to the pixels on screen. I like learning by building, breaking things, and building them again a little better each time.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,heroku,git,github,vscode,figma,notion&perline=10" alt="tools" />
-  </a>
-</p>
+```js
+const mia = {
+  focus:    ["web development", "fullstack"],
+  learning: ["AI-assisted development", "clean code"],
+  enjoys:   ["side projects", "UI design", "games"],
+  motto:    "I'm still trying.",
+};
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+<br clear="right" />
 
----
+### ✦ Tech Stack
 
-<h3 align="center">🤝 Find me on</h3>
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=php,js,ts,java,python" height="36" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,threejs" height="36" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,php" height="36" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,firebase" height="36" /> ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=heroku,git,github,vscode" height="36" /> |
+| **Design & Notes** | <img src="https://skillicons.dev/icons?i=figma,notion" height="36" /> ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
-<p align="center">
-  <a href="https://miahub.site">
-    <img src="https://img.shields.io/badge/Website-miahub.site-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.facebook.com/ducknghia">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/dacnghia-lx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+### ✦ GitHub Activity
 
----
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dacnghia-lx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=dacnghia-lx&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" /></td>
+  </tr>
+</table>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dacnghia-lx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacnghia-lx&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dacnghia-lx&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
-</p>
-
-<p align="center">
+<details>
+  <summary><b>📈 Contribution graph</b></summary>
+  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dacnghia-lx&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
-</p>
+</details>
 
-<p align="center"><i>⭐ Thanks for stopping by — have a nice day!</i></p>
+### ✦ Connect
+
+[![Website](https://img.shields.io/badge/miahub.site-0e75b6?style=flat-square&logo=googlechrome&logoColor=white)](https://miahub.site)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ducknghia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dacnghia-lx)
+
+<sub>Thanks for dropping by ✌️</sub>
