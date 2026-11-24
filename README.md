@@ -12,16 +12,7 @@
 
 ### ✦ About
 
-Developer who enjoys turning ideas into working products — from the database all the way to the pixels on screen. I like learning by building, breaking things, and building them again a little better each time.
-
-```js
-const mia = {
-  focus:    ["web development", "fullstack"],
-  learning: ["AI-assisted development", "clean code"],
-  enjoys:   ["side projects", "UI design", "games"],
-  motto:    "I'm still trying.",
-};
-```
+I enjoys turning ideas into working products — from the database all the way to the pixels on screen. I like learning by building and re-building them again so it could get better.
 
 <br clear="right" />
 
@@ -53,8 +44,6 @@ const mia = {
 
 ### ✦ Connect
 
-[![Website](https://img.shields.io/badge/miahub.site-0e75b6?style=flat-square&logo=googlechrome&logoColor=white)](https://miahub.site)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ducknghia)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dacnghia-lx)
 
 <sub>Thanks for dropping by ✌️</sub>
