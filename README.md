@@ -30,7 +30,7 @@ I enjoys turning ideas into working products — from the database all the way t
 
 <table>
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=dacnghia-lx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=dacnghia-lx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&size_weight=0&count_weight=1" alt="GitHub stats" /></td>
     <td><img src="https://streak-stats.demolab.com?user=dacnghia-lx&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" /></td>
   </tr>
 </table>
