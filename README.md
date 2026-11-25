@@ -41,8 +41,8 @@ I enjoys turning ideas into working products — from the database all the way t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dacnghia-lx&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 </details>
 
-### ✦ Connect
+### Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ducknghia)
 
-<sub>Thanks for dropping by ✌️</sub>
+<sub>Have a nice day ✌️</sub>
