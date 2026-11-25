@@ -21,7 +21,7 @@ I enjoys turning ideas into working products — from the database all the way t
 |:--|:--|
 | **Languages** | <img src="https://skillicons.dev/icons?i=php,ts,java,python" height="36" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,vite" height="36" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,php,redis,nestjs" height="36" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,laravel,redis,nestjs" height="36" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="36" /> ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
 | **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=heroku,git,github,vscode,vim" height="36" /> |
 | **Design & Notes** | <img src="https://skillicons.dev/icons?i=figma,notion,obsidian" height="36" /> ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
