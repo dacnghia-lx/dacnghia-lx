@@ -1,6 +1,6 @@
 ## Hey, I'm mía <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="28" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&vCenter=true&width=460&height=30&lines=Fullstack+web+developer;Building+things+for+the+web+%26+beyond" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&vCenter=true&width=460&height=30&lines=Fullstack+web+developer;I+guess+.+.+." alt="Typing SVG" /></a>
 
 ![visitors](https://komarev.com/ghpvc/?username=dacnghia-lx&label=profile%20views&color=58a6ff&style=flat-square)
 ![followers](https://img.shields.io/github/followers/dacnghia-lx?label=followers&style=flat-square&color=238636)
