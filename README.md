@@ -43,6 +43,7 @@ I enjoys turning ideas into working products — from the database all the way t
 
 ### Connect
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ducknghia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nghiadevio/)
+
 
 <sub>Have a nice day ✌️</sub>
