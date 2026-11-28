@@ -11,7 +11,7 @@
 
 ### About
 
-I enjoys turning ideas into working products — from the database all the way to the pixels on screen. I like learning by building and re-building them again so it could get better.
+Focused on designing and shipping full-stack web applications and AI-powered tools. My core interests lie in backend architecture, applied machine learning, and web accessibility.
 
 <br clear="right" />
 
@@ -38,7 +38,7 @@ I enjoys turning ideas into working products — from the database all the way t
 <details>
   <summary><b>📈 Contribution graph</b></summary>
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dacnghia-lx&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=dacnghia-lx&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 </details>
 
 ### Connect
